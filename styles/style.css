@@ -10,8 +10,9 @@ header{
     font-weight: 900;
     margin-left:100px;
     margin-top: 100px;
-}  
-  
+    
+    }  
+ 
 /* ----------
 Journey of Influencer's 
 --------------*/
@@ -59,8 +60,8 @@ Journey of Influencer's
       grid-gap:30px;
     }
     .collections{
-        margin-left:100px;
-        margin-right: 100px;
+        margin-left:250px;
+        margin-right: 250px;
     }
     .collection{
         justify-content: center;
@@ -95,7 +96,15 @@ Journey of Influencer's
    .small{
        color:#787885;
    }
-  
+   /*----------------
+      Footer 
+      ------------------------*/
+ footer{
+     color:blanchedalmond;
+     background-color: black;
+     padding:200px;
+     text-align: center;
+ }  
     
     
     
