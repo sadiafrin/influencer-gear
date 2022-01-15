@@ -151,7 +151,53 @@
        font-weight: bold;
 
   }
-
+  /* ................
+      animation part 
+  ................................*/
+ .animation img{
+     width:300px;
+     height:256px;
+ }
+  /*-----------------------
+  
+  
+  animation Part/ Vloging part
+  
+  ----------------------------------------------*/
+  .vlog-photos{
+      width:600px;
+      height:340px;
+      margin-left: 550px;
+      margin-top: 50px;
+      margin-bottom: 100px;
+      border:2px solid gray;
+      border-radius: 10px;
+      position:relative;
+  }
+  .photo img{
+      width:100%;
+      border-radius: 10px;
+  }
+ 
+  .vlog-detail{
+      display:none;
+      position:absolute;  
+      top:0;
+  }
+  .vlog-detail h2{
+      background-color: rgba(238, 212, 212, 0.781);
+      text-align: center;
+  }
+  .vlog-photos:hover .vlog-detail{
+      display:block;
+      background-color:rgba(247, 237, 237, 0.781);
+      
+  }   
+      
+  
+  .animation{
+      margin:0;
+  }
    /*----------------
       Footer 
       ------------------------*/
