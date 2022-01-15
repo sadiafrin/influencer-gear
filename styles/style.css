@@ -58,6 +58,10 @@ Journey of Influencer's
       grid-template-columns:repeat(3, 1fr) ;
       grid-gap:30px;
     }
+    .collections{
+        margin-left:100px;
+        margin-right: 100px;
+    }
     .collection{
         justify-content: center;
         align-items: center;
