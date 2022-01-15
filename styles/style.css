@@ -13,9 +13,9 @@ header{
     
     }  
  
-/* ----------
-Journey of Influencer's 
---------------*/
+/* -------------------------------------------------
+             Journey of Influencer's 
+--------------------------------------------------*/
 
 /* ------------------------Main start------------------- */
 
@@ -36,6 +36,20 @@ Journey of Influencer's
     p,button{
         margin-left:50px;
         
+    }
+    button{
+        color:white;
+        background-color: crimson;
+        padding:15px 45px;
+        border-radius: 40px;
+        border:none;
+    }
+    button{
+        display: inline-block;
+       
+    }
+    .fas{
+        margin-left: 10px;
     }
 
     .image {
@@ -96,15 +110,43 @@ Journey of Influencer's
    .small{
        color:#787885;
    }
+    /* ....................................
+                  see more 
+    .........................*/
+   #see-more{
+       font-size: 15px;
+       font-family:'Poppins', sans-serif;  ;
+       color:#E02C6D;
+       text-align: right;
+       padding-right: 300px;
+       font-weight: bold;
+
+  }
+
    /*----------------
       Footer 
       ------------------------*/
  footer{
      color:blanchedalmond;
-     background-color: black;
-     padding:200px;
+     background-color: #0A0826;
+     padding:50px;
      text-align: center;
- }  
+ } 
+ #footer{
+     font-size: 24px;
+     font-weight: bold;
+    font-family: 'Poppins', sans-serif; 
+ }
+ #footer-1{
+     color:#D9DBE1;
+ }
+ .fab{
+     font-size:24px;
+     margin: 10px;
+     padding:5px;
+   
+ }
+
     
     
     
