@@ -1,0 +1,53 @@
+/* font size */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Luxurious+Roman&family=Moon+Dance&family=Poppins:ital,wght@0,400;0,500;1,500&family=Roboto+Slab&family=The+Nautigal:wght@400;700&display=swap');
+
+/* Header part */
+
+header{
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+    font-weight: 900;
+    margin-top: 70px;
+    margin-left:240px;
+  
+}
+ 
+/* ----------
+Journey of Influencer's 
+--------------*/
+
+/* ------------------------Main start------------------- */
+
+.algin-items{
+    justify-content: center;
+    align-items: center;
+}
+.font-size h1{     
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    margin-left:50px ;
+    }
+
+    p,button{
+        margin-left:50px;
+        
+    }
+
+    .image {
+        margin-left: 40px;
+        padding-left: 50px;
+    }
+
+     .first-section{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    /*---------------------- Main End----------------------------- */
+
+     
+    
+    
+    
