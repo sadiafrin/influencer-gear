@@ -232,6 +232,39 @@
      padding:5px;
    
  }
+ /* -----------------------
+         Media Queries
+         ------------------------------------ */
 
+         /*---Mobile Devices --*/
+  @media only screen and (max-width:688px){
+    
+    .first-section,.collections, .animation-card{
+             display:grid;
+            grid-template-columns: repeat(1,1fr);
+            width:100%;
+           
+            }
+  }
+  /* ..............Tablet ........*/
+  @media only screen and (min-width:688px) and (max-width:992px){
+    
+    .first-section,.collections, .animation-card{
+             display:grid;
+            grid-template-columns: repeat(2,1fr);
+           
+            }
+           
+  }
+   
+  
+      
+  
+ 
+
+  
+      
+      
+  
   
     
