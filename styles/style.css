@@ -143,7 +143,7 @@
                   see more 
     .........................*/
    #see-more{
-       font-size: 15px;
+       font-size: 18px;
        font-family:'Poppins', sans-serif;  ;
        color:#E02C6D;
        text-align: right;
@@ -181,7 +181,8 @@
  
   .vlog-detail{
       display:none;
-      position:absolute;  
+      position:absolute; 
+      border-radius: 10px; 
       top:0;
   }
   .vlog-detail h2{
@@ -194,9 +195,18 @@
       
   }   
       
-  
   .animation{
       margin:0;
+  }
+  .animation-button{
+      margin-left:1000px;
+      margin-bottom: 100px;
+      background-color: #E02C6D;
+     
+  }
+  .animation-button a{
+      text-decoration: none;
+      color:white;
   }
    /*----------------
       Footer 
