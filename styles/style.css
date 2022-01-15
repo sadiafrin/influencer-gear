@@ -98,9 +98,9 @@
     }
     .collections{
         margin-left:250px;
-        margin-right: 250px;
+        margin-right:250px;
     }
-    .collection{
+     .collection{
         justify-content: center;
         align-items: center;
     }
